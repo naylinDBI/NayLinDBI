@@ -1,0 +1,905 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "JC - CV Resume Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "3.6.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/richard.portocrafting.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/jcresume\/template-kit\/portfolio\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/jcresume\/template-kit\/testimonial\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/jcresume\/template-kit\/contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Expertises",
+            "screenshot": "screenshots\/expertises.jpg",
+            "source": "templates\/expertises.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/jcresume\/template-kit\/expertises\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Experience",
+            "screenshot": "screenshots\/experience.jpg",
+            "source": "templates\/experience.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/jcresume\/template-kit\/experience\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/jcresume\/template-kit\/404\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/jcresume\/template-kit\/pricing\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/jcresume\/template-kit\/services\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/jcresume\/template-kit\/about\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/jcresume\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/jcresume\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/richard.portocrafting.com\/jcresume\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.6.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.6.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "close-up-of-female-hands-using-digital-graphic-tab-Y42W6RS.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/close-up-of-female-hands-using-digital-graphic-tab-Y42W6RS-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/expertises.json",
+                    "name": "Expertises"
+                },
+                {
+                    "source": "templates\/experience.json",
+                    "name": "Experience"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 194796,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y42W6RS"
+        },
+        {
+            "filename": "marnie-ui-kit-STBSU45.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/marnie-ui-kit-STBSU45-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 129074,
+            "dimensions": [
+                1350,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-STBSU45"
+        },
+        {
+            "filename": "placeholder-1.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/placeholder-1-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "fintech-ui-kit-dashboard-analytics-trading-SK3D7BF.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/fintech-ui-kit-dashboard-analytics-trading-SK3D7BF-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 110812,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-SK3D7BF"
+        },
+        {
+            "filename": "placeholder-2.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/placeholder-2-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "3d-screen-mockup-JGW349.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/3d-screen-mockup-JGW349-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 94105,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-JGW349"
+        },
+        {
+            "filename": "placeholder-3.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/placeholder-3-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "phone-x-mockups-EQY3H8P.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/phone-x-mockups-EQY3H8P-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 100206,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-EQY3H8P"
+        },
+        {
+            "filename": "placeholder-4.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/placeholder-4-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "type-on-laptop-computer-KJEMBGV.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/type-on-laptop-computer-KJEMBGV-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 411347,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KJEMBGV"
+        },
+        {
+            "filename": "woman-illustrator-drawing-painting-on-digital-tabl-XKY6XQW.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/woman-illustrator-drawing-painting-on-digital-tabl-XKY6XQW-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 294867,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XKY6XQW"
+        },
+        {
+            "filename": "natural-young-woman-smiling-indoors-PZB2GEA.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/natural-young-woman-smiling-indoors-PZB2GEA-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 228063,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZB2GEA"
+        },
+        {
+            "filename": "portrait-close-up-of-young-man-smiling-JD5CJPP.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/portrait-close-up-of-young-man-smiling-JD5CJPP-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 220619,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JD5CJPP"
+        },
+        {
+            "filename": "caucasian-man-smile-to-camera-RNVE8YG.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/caucasian-man-smile-to-camera-RNVE8YG-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 198233,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RNVE8YG"
+        },
+        {
+            "filename": "caucasian-man-smiling-and-looking-at-camera-EZ4TGW6.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/caucasian-man-smiling-and-looking-at-camera-EZ4TGW6-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 201224,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EZ4TGW6"
+        },
+        {
+            "filename": "happy-businessman-smiling-with-laptop-VM8CUT6.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/happy-businessman-smiling-with-laptop-VM8CUT6-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 200878,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VM8CUT6"
+        },
+        {
+            "filename": "young-cheerful-man-in-classic-black-suit-and-white-V4T37S8.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/young-cheerful-man-in-classic-black-suit-and-white-V4T37S8-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 196424,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V4T37S8"
+        },
+        {
+            "filename": "crowdsourcing-collaboration-content-information-co-PP27XF2.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/crowdsourcing-collaboration-content-information-co-PP27XF2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/expertises.json",
+                    "name": "Expertises"
+                }
+            ],
+            "filesize": 509758,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PP27XF2"
+        },
+        {
+            "filename": "journal-with-doodling-you-HBWSSA2.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/journal-with-doodling-you-HBWSSA2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/expertises.json",
+                    "name": "Expertises"
+                }
+            ],
+            "filesize": 143194,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HBWSSA2"
+        },
+        {
+            "filename": "studio-for-graphic-design-PDUWWFL.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/studio-for-graphic-design-PDUWWFL-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/experience.json",
+                    "name": "Experience"
+                }
+            ],
+            "filesize": 248780,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PDUWWFL"
+        },
+        {
+            "filename": "woman-typing-on-laptop-6PWPRJS.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/woman-typing-on-laptop-6PWPRJS-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/experience.json",
+                    "name": "Experience"
+                }
+            ],
+            "filesize": 537031,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6PWPRJS"
+        },
+        {
+            "filename": "smiling-audience-applauding-at-a-business-seminar-PAKRZ7D.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/smiling-audience-applauding-at-a-business-seminar-PAKRZ7D-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/experience.json",
+                    "name": "Experience"
+                }
+            ],
+            "filesize": 161373,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PAKRZ7D"
+        },
+        {
+            "filename": "teen-boy-programming-on-laptop-4H9S6QL.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/teen-boy-programming-on-laptop-4H9S6QL-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 242919,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4H9S6QL"
+        },
+        {
+            "filename": "ready-to-write-PQSVTMJ.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/ready-to-write-PQSVTMJ-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 190622,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PQSVTMJ"
+        },
+        {
+            "filename": "drawing-scheme-for-ui-design-L5KB7DN.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/drawing-scheme-for-ui-design-L5KB7DN-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 199912,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L5KB7DN"
+        },
+        {
+            "filename": "asian-young-man-YLEU2WS.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/asian-young-man-YLEU2WS-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 559624,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YLEU2WS"
+        },
+        {
+            "filename": "handshake-CDXVDBD.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/handshake-CDXVDBD-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 163573,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CDXVDBD"
+        },
+        {
+            "filename": "asian-young-man-portrait-D6BE9A2.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/asian-young-man-portrait-D6BE9A2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 202400,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D6BE9A2"
+        },
+        {
+            "filename": "business-people-discussing-during-a-meeting-with-a-24PQKRZ.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/business-people-discussing-during-a-meeting-with-a-24PQKRZ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 175627,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-24PQKRZ"
+        },
+        {
+            "filename": "man-talk-to-cellphone-VL36GC5.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/man-talk-to-cellphone-VL36GC5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 299847,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VL36GC5"
+        },
+        {
+            "filename": "businesswoman-checking-e-mail-online-on-laptop-P8B8NS5.jpg",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/businesswoman-checking-e-mail-online-on-laptop-P8B8NS5-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 163699,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8B8NS5"
+        },
+        {
+            "filename": "Logo_White.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/Logo_White.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 12080,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-128.png",
+            "thumbnail_url": "http:\/\/richard.portocrafting.com\/jcresume\/wp-content\/uploads\/sites\/17\/2022\/03\/Group-128.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 16402,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

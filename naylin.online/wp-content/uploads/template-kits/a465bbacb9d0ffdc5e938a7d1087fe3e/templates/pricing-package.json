@@ -1,0 +1,1981 @@
+{
+    "version": "0.4",
+    "title": "Pricing &#038; Package",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "70e7c1bf",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1320,
+                    "sizes": []
+                },
+                "structure": "20",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "15",
+                    "bottom": "50",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/gajean.com\/hanpot\/wp-content\/uploads\/sites\/27\/2023\/02\/two-young-photographers-looking-at-photos-on-a-digital-camera-in-their-studio-1.jpg",
+                    "id": 775,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_size": "cover",
+                "background_overlay_background": "gradient",
+                "background_overlay_color_b_stop": {
+                    "unit": "%",
+                    "size": 70,
+                    "sizes": []
+                },
+                "background_overlay_gradient_angle": {
+                    "unit": "deg",
+                    "size": 90,
+                    "sizes": []
+                },
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=2e791f7",
+                    "background_overlay_color_b": "globals\/colors?id=328789b"
+                }
+            },
+            "elements": [
+                {
+                    "id": "11707c64",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "30",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "45614a6d",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "padding": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "50",
+                            "bottom": "50",
+                            "left": "50",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "35",
+                            "right": "35",
+                            "bottom": "35",
+                            "left": "35",
+                            "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#FFFFFF",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "30",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeInLeft"
+                    },
+                    "elements": [
+                        {
+                            "id": "3c847384",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Homepage",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "f89bd0e",
+                                        "link": {
+                                            "url": "\/",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "Pricing & Package",
+                                        "selected_icon": {
+                                            "value": "remixicon ri-arrow-drop-right-line",
+                                            "library": "remix-icons"
+                                        },
+                                        "_id": "891d352"
+                                    }
+                                ],
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_typography_typography": "globals\/typography?id=accent"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6632a146",
+                            "settings": {
+                                "ekit_heading_title": "{{Pricing}} & Package",
+                                "ekit_heading_sub_title": "Time has changed",
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_show_seperator": "",
+                                "ekit_heading_title_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_heading_title_typography_typography": "custom",
+                                "ekit_heading_title_typography_font_family": "Poppins",
+                                "ekit_heading_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 45,
+                                    "sizes": []
+                                },
+                                "ekit_heading_title_typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "ekit_heading_title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "ekit_heading_title_typography_font_weight": "700",
+                                "ekit_heading_title_typography_text_transform": "uppercase",
+                                "ekit_heading_title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.3,
+                                    "sizes": []
+                                },
+                                "ekit_heading_title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0.7,
+                                    "sizes": []
+                                },
+                                "ekit_heading_title_typography_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_heading_focused_title_typography_typography": "custom",
+                                "ekit_heading_focused_title_typography_font_family": "Poppins",
+                                "ekit_heading_focused_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 45,
+                                    "sizes": []
+                                },
+                                "ekit_heading_focused_title_typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "ekit_heading_focused_title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "ekit_heading_focused_title_typography_font_weight": "700",
+                                "ekit_heading_focused_title_typography_text_transform": "uppercase",
+                                "ekit_heading_focused_title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.3,
+                                    "sizes": []
+                                },
+                                "ekit_heading_focused_title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0.7,
+                                    "sizes": []
+                                },
+                                "ekit_heading_focused_title_typography_word_spacing": {
+                                    "unit": "em",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_heading_use_focused_title_bg": "yes",
+                                "ekit_heading_focused_title_secondary_bg_background": "classic",
+                                "ekit_heading_focused_title_secondary_bg_color": "#121212",
+                                "ekit_heading_use_title_text_fill": "",
+                                "__globals__": {
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=c397194",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=c397194",
+                                    "ekit_heading_focused_title_secondary_bg_color": "globals\/colors?id=4054cab",
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=primary",
+                                    "ekit_heading_focused_title_color_hover": "globals\/colors?id=primary"
+                                },
+                                "ekit_heading_title_tag": "h3"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6ec89553",
+                            "settings": {
+                                "width": {
+                                    "unit": "px",
+                                    "size": 350,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "look": "line_text",
+                                "text": "Best Pricing Photographer",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "text_align": "right",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=accent",
+                                    "text_color": "globals\/colors?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "479465f",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1320,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "15",
+                    "bottom": "50",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "gap": "no"
+            },
+            "elements": [
+                {
+                    "id": "51dfa4af",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "75c7b9e",
+                            "settings": {
+                                "content_width": {
+                                    "unit": "px",
+                                    "size": 720,
+                                    "sizes": []
+                                },
+                                "gap": "no",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "35",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "3c57e2d2",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "378d4719",
+                                            "settings": {
+                                                "view": "inline",
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Pricing Package",
+                                                        "selected_icon": {
+                                                            "value": "icon icon-photo-camera1",
+                                                            "library": "ekiticons"
+                                                        },
+                                                        "_id": "db73467"
+                                                    }
+                                                ],
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "icon_typography_typography": "globals\/typography?id=3958d75",
+                                                    "text_color": "globals\/colors?id=c0dc0f8",
+                                                    "icon_color": "globals\/colors?id=primary"
+                                                },
+                                                "icon_align": "center",
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "57a2627",
+                                            "settings": {
+                                                "ekit_heading_title": "{{Lets Choose}} Package You Need",
+                                                "ekit_heading_sub_title": "Time has changed",
+                                                "shadow_text_content": "bussiness",
+                                                "ekit_heading_show_seperator": "",
+                                                "ekit_heading_title_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "ekit_heading_title_typography_typography": "custom",
+                                                "ekit_heading_title_typography_font_family": "Poppins",
+                                                "ekit_heading_title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 45,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_title_typography_font_size_tablet": {
+                                                    "unit": "px",
+                                                    "size": 35,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_title_typography_font_weight": "700",
+                                                "ekit_heading_title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.3,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_title_typography_word_spacing": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_focused_title_color": "#121212",
+                                                "ekit_heading_focused_title_color_hover": "#121212",
+                                                "ekit_heading_focused_title_typography_typography": "custom",
+                                                "ekit_heading_focused_title_typography_font_family": "Poppins",
+                                                "ekit_heading_focused_title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 45,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_focused_title_typography_font_size_tablet": {
+                                                    "unit": "px",
+                                                    "size": 35,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_focused_title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_focused_title_typography_font_weight": "700",
+                                                "ekit_heading_focused_title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.3,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_focused_title_typography_word_spacing": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_use_focused_title_bg": "yes",
+                                                "ekit_heading_focused_title_secondary_bg_background": "classic",
+                                                "ekit_heading_use_title_text_fill": "",
+                                                "__globals__": {
+                                                    "ekit_heading_title_typography_typography": "globals\/typography?id=c397194",
+                                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=c397194",
+                                                    "ekit_heading_focused_title_secondary_bg_color": "globals\/colors?id=4054cab",
+                                                    "ekit_heading_focused_title_color": "globals\/colors?id=primary",
+                                                    "ekit_heading_focused_title_color_hover": "globals\/colors?id=accent"
+                                                },
+                                                "ekit_heading_title_tag": "h3",
+                                                "ekit_heading_title_align": "text_center",
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": 200
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "12065e1e",
+                            "settings": {
+                                "content_width": {
+                                    "unit": "px",
+                                    "size": 1140,
+                                    "sizes": []
+                                },
+                                "gap": "custom",
+                                "gap_columns_custom": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "structure": "30"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2a351a4b",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "content_position": "bottom",
+                                        "_inline_size_tablet": 50,
+                                        "animation": "fadeInUp"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1d900be1",
+                                            "settings": {
+                                                "exad_pricing_table_items": [
+                                                    {
+                                                        "exad_pricing_table_item": "Photoshoot Tools",
+                                                        "_id": "da42216"
+                                                    },
+                                                    {
+                                                        "exad_pricing_table_item": "Free Reschedule",
+                                                        "_id": "0eafaad"
+                                                    },
+                                                    {
+                                                        "exad_pricing_table_item": "Professionals Shoot",
+                                                        "_id": "7694714"
+                                                    },
+                                                    {
+                                                        "exad_pricing_table_item": "Perfect Moments",
+                                                        "_id": "25647fc"
+                                                    },
+                                                    {
+                                                        "exad_pricing_table_item": "Best Concepts",
+                                                        "_id": "f2041a4"
+                                                    },
+                                                    {
+                                                        "exad_pricing_table_item": "And Much More",
+                                                        "_id": "a6b775b"
+                                                    }
+                                                ],
+                                                "exad_pricing_table_promo_enable": "",
+                                                "exad_pricing_table_promo_title": "Recommended",
+                                                "exad_pricing_table_title": "Wedding Photoshoot",
+                                                "exad_pricing_table_subtitle": "For Wedding Photography",
+                                                "exad_pricing_table_featured_tag_text": "FEATURED",
+                                                "exad_pricing_table_price": "389",
+                                                "exad_pricing_table_price_cur": "$",
+                                                "exad_pricing_table_price_by": "Package",
+                                                "exad_pricing_table_period_separator": "\/",
+                                                "exad_pricing_table_regular_price": "50",
+                                                "exad_pricing_table_regular_price_cur": "$",
+                                                "exad_pricing_table_btn": "Choose Plan",
+                                                "exad_pricing_table_note_text": "Moneyback Guarantee",
+                                                "exad_pricing_table_content_padding": {
+                                                    "unit": "px",
+                                                    "top": "50",
+                                                    "right": "50",
+                                                    "bottom": "50",
+                                                    "left": "50",
+                                                    "isLinked": true
+                                                },
+                                                "exad_pricing_table_content_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "exad_pricing_table_content_box_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 25,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.08)"
+                                                },
+                                                "exad_pricing_table_content_alignment": "center",
+                                                "exad_pricing_table_transition_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 25,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.15)"
+                                                },
+                                                "exad_pricing_table_header_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "7",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "exad_pricing_table_title_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "7",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "exad_pricing_table_subtitle_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "exad_pricing_table_featured_list_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "exad_pricing_table_featured_list_icon_space": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "exad_pricing_table_button_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "exad_pricing_table_button_padding": {
+                                                    "unit": "px",
+                                                    "top": "16",
+                                                    "right": "37",
+                                                    "bottom": "16",
+                                                    "left": "37",
+                                                    "isLinked": false
+                                                },
+                                                "exad_section_pricing_table_note_margin": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "exad_pricing_table_promo_typography_typography": "globals\/typography?id=accent",
+                                                    "exad_pricing_table_promo_background_color": "globals\/colors?id=secondary",
+                                                    "exad_pricing_table_title_typography_typography": "globals\/typography?id=a10f8a0",
+                                                    "exad_pricing_table_subtitle_typography_typography": "globals\/typography?id=1eb2da8",
+                                                    "exad_pricing_table_subtitle_color": "globals\/colors?id=text",
+                                                    "exad_pricing_table_title_color": "globals\/colors?id=primary",
+                                                    "exad_pricing_table_price_box_separator_color": "globals\/colors?id=c0dc0f8",
+                                                    "exad_pricing_table_price_tag_typography_typography": "globals\/typography?id=679076f",
+                                                    "exad_pricing_table_pricing_color": "globals\/colors?id=primary",
+                                                    "exad_pricing_table_price_preiod_typography_typography": "globals\/typography?id=accent",
+                                                    "exad_pricing_table_pricing_period_color": "globals\/colors?id=text",
+                                                    "exad_pricing_table_list_item_typography_typography": "globals\/typography?id=text",
+                                                    "exad_pricing_table_list_item_icon_color": "globals\/colors?id=c0dc0f8",
+                                                    "exad_pricing_table_list_disable_item_icon_color": "globals\/colors?id=c0dc0f8",
+                                                    "exad_pricing_table_list_disable_item_color": "globals\/colors?id=c0dc0f8",
+                                                    "exad_pricing_table_btn_typography_typography": "globals\/typography?id=accent",
+                                                    "exad_pricing_table_btn_normal_border_color": "globals\/colors?id=primary",
+                                                    "exad_pricing_table_btn_normal_bg_color": "globals\/colors?id=primary",
+                                                    "exad_pricing_table_btn_hover_border_color": "globals\/colors?id=secondary",
+                                                    "exad_pricing_table_btn_hover_bg_color": "globals\/colors?id=secondary",
+                                                    "exad_pricing_table_btn_hover_text_color": "globals\/colors?id=primary",
+                                                    "exad_section_pricing_table_note_text_typography_typography": "globals\/typography?id=3958d75",
+                                                    "exad_section_pricing_table_note_text_color": "globals\/colors?id=text"
+                                                },
+                                                "exad_pricing_table_content_padding_tablet": {
+                                                    "unit": "px",
+                                                    "top": "35",
+                                                    "right": "35",
+                                                    "bottom": "35",
+                                                    "left": "35",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "exad-pricing-table",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2bb7ec03",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "content_position": "bottom",
+                                        "_inline_size_tablet": 50,
+                                        "animation": "fadeInUp",
+                                        "animation_delay": 200
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "58c5f603",
+                                            "settings": {
+                                                "exad_pricing_table_items": [
+                                                    {
+                                                        "exad_pricing_table_item": "Photoshoot Tools",
+                                                        "_id": "da42216"
+                                                    },
+                                                    {
+                                                        "exad_pricing_table_item": "Free Reschedule",
+                                                        "_id": "0eafaad"
+                                                    },
+                                                    {
+                                                        "exad_pricing_table_item": "Professionals Shoot",
+                                                        "_id": "7694714"
+                                                    },
+                                                    {
+                                                        "exad_pricing_table_item": "Perfect Moments",
+                                                        "_id": "25647fc"
+                                                    },
+                                                    {
+                                                        "exad_pricing_table_item": "Best Concepts",
+                                                        "_id": "f2041a4"
+                                                    },
+                                                    {
+                                                        "exad_pricing_table_item": "And Much More",
+                                                        "_id": "a6b775b"
+                                                    }
+                                                ],
+                                                "exad_pricing_table_promo_enable": "yes",
+                                                "exad_pricing_table_promo_title": "Most Popular",
+                                                "exad_pricing_table_title": "Personal",
+                                                "exad_pricing_table_subtitle": "For personal photographer contract",
+                                                "exad_pricing_table_featured_tag_text": "FEATURED",
+                                                "exad_pricing_table_price": "885",
+                                                "exad_pricing_table_price_cur": "$",
+                                                "exad_pricing_table_price_by": "3 Month",
+                                                "exad_pricing_table_period_separator": "\/",
+                                                "exad_pricing_table_regular_price": "50",
+                                                "exad_pricing_table_regular_price_cur": "$",
+                                                "exad_pricing_table_btn": "Choose Plan",
+                                                "exad_pricing_table_note_text": "Moneyback Guarantee",
+                                                "exad_pricing_table_content_padding": {
+                                                    "unit": "px",
+                                                    "top": "50",
+                                                    "right": "50",
+                                                    "bottom": "50",
+                                                    "left": "50",
+                                                    "isLinked": true
+                                                },
+                                                "exad_pricing_table_content_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "exad_pricing_table_content_box_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 25,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.08)"
+                                                },
+                                                "exad_pricing_table_content_alignment": "center",
+                                                "exad_pricing_table_transition_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 25,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.15)"
+                                                },
+                                                "exad_pricing_table_header_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "7",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "exad_pricing_table_title_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "7",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "exad_pricing_table_subtitle_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "exad_pricing_table_featured_list_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "exad_pricing_table_featured_list_icon_space": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "exad_pricing_table_button_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "exad_pricing_table_button_padding": {
+                                                    "unit": "px",
+                                                    "top": "16",
+                                                    "right": "37",
+                                                    "bottom": "16",
+                                                    "left": "37",
+                                                    "isLinked": false
+                                                },
+                                                "exad_section_pricing_table_note_margin": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "exad_pricing_table_promo_typography_typography": "globals\/typography?id=accent",
+                                                    "exad_pricing_table_promo_background_color": "globals\/colors?id=secondary",
+                                                    "exad_pricing_table_title_typography_typography": "globals\/typography?id=a10f8a0",
+                                                    "exad_pricing_table_subtitle_typography_typography": "globals\/typography?id=1eb2da8",
+                                                    "exad_pricing_table_subtitle_color": "globals\/colors?id=text",
+                                                    "exad_pricing_table_title_color": "globals\/colors?id=primary",
+                                                    "exad_pricing_table_price_box_separator_color": "globals\/colors?id=c0dc0f8",
+                                                    "exad_pricing_table_price_tag_typography_typography": "globals\/typography?id=679076f",
+                                                    "exad_pricing_table_pricing_color": "globals\/colors?id=primary",
+                                                    "exad_pricing_table_price_preiod_typography_typography": "globals\/typography?id=accent",
+                                                    "exad_pricing_table_pricing_period_color": "globals\/colors?id=text",
+                                                    "exad_pricing_table_list_item_typography_typography": "globals\/typography?id=text",
+                                                    "exad_pricing_table_list_item_icon_color": "globals\/colors?id=c0dc0f8",
+                                                    "exad_pricing_table_list_disable_item_icon_color": "globals\/colors?id=c0dc0f8",
+                                                    "exad_pricing_table_list_disable_item_color": "globals\/colors?id=c0dc0f8",
+                                                    "exad_pricing_table_btn_typography_typography": "globals\/typography?id=accent",
+                                                    "exad_pricing_table_btn_normal_border_color": "globals\/colors?id=primary",
+                                                    "exad_pricing_table_btn_normal_bg_color": "globals\/colors?id=primary",
+                                                    "exad_pricing_table_btn_hover_border_color": "globals\/colors?id=secondary",
+                                                    "exad_pricing_table_btn_hover_bg_color": "globals\/colors?id=secondary",
+                                                    "exad_pricing_table_btn_hover_text_color": "globals\/colors?id=primary",
+                                                    "exad_section_pricing_table_note_text_typography_typography": "globals\/typography?id=3958d75",
+                                                    "exad_section_pricing_table_note_text_color": "globals\/colors?id=text"
+                                                },
+                                                "exad_pricing_table_content_padding_tablet": {
+                                                    "unit": "px",
+                                                    "top": "35",
+                                                    "right": "35",
+                                                    "bottom": "35",
+                                                    "left": "35",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "exad-pricing-table",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "3d9742db",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "content_position": "bottom",
+                                        "_inline_size_tablet": 100,
+                                        "animation": "fadeInUp",
+                                        "animation_delay": 400
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "40f3c97",
+                                            "settings": {
+                                                "exad_pricing_table_items": [
+                                                    {
+                                                        "exad_pricing_table_item": "Photoshoot Tools",
+                                                        "_id": "da42216"
+                                                    },
+                                                    {
+                                                        "exad_pricing_table_item": "Free Reschedule",
+                                                        "_id": "0eafaad"
+                                                    },
+                                                    {
+                                                        "exad_pricing_table_item": "Professionals Shoot",
+                                                        "_id": "7694714"
+                                                    },
+                                                    {
+                                                        "exad_pricing_table_item": "Perfect Moments",
+                                                        "_id": "25647fc"
+                                                    },
+                                                    {
+                                                        "exad_pricing_table_item": "Best Concepts",
+                                                        "_id": "f2041a4"
+                                                    },
+                                                    {
+                                                        "exad_pricing_table_item": "And Much More",
+                                                        "_id": "a6b775b"
+                                                    }
+                                                ],
+                                                "exad_pricing_table_promo_enable": "",
+                                                "exad_pricing_table_promo_title": "Recommended",
+                                                "exad_pricing_table_title": "Photoshoot",
+                                                "exad_pricing_table_subtitle": "For custom photoshoot needed",
+                                                "exad_pricing_table_featured_tag_text": "FEATURED",
+                                                "exad_pricing_table_price": "87",
+                                                "exad_pricing_table_price_cur": "$",
+                                                "exad_pricing_table_price_by": "Pack",
+                                                "exad_pricing_table_period_separator": "\/",
+                                                "exad_pricing_table_regular_price": "50",
+                                                "exad_pricing_table_regular_price_cur": "$",
+                                                "exad_pricing_table_btn": "Choose Plan",
+                                                "exad_pricing_table_note_text": "Moneyback Guarantee",
+                                                "exad_pricing_table_content_padding": {
+                                                    "unit": "px",
+                                                    "top": "50",
+                                                    "right": "50",
+                                                    "bottom": "50",
+                                                    "left": "50",
+                                                    "isLinked": true
+                                                },
+                                                "exad_pricing_table_content_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "exad_pricing_table_content_box_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 25,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.08)"
+                                                },
+                                                "exad_pricing_table_content_alignment": "center",
+                                                "exad_pricing_table_transition_shadow_box_shadow": {
+                                                    "horizontal": 0,
+                                                    "vertical": 10,
+                                                    "blur": 25,
+                                                    "spread": 0,
+                                                    "color": "rgba(0, 0, 0, 0.15)"
+                                                },
+                                                "exad_pricing_table_header_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "7",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "exad_pricing_table_title_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "7",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "exad_pricing_table_subtitle_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "exad_pricing_table_featured_list_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "exad_pricing_table_featured_list_icon_space": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "exad_pricing_table_button_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "exad_pricing_table_button_padding": {
+                                                    "unit": "px",
+                                                    "top": "16",
+                                                    "right": "37",
+                                                    "bottom": "16",
+                                                    "left": "37",
+                                                    "isLinked": false
+                                                },
+                                                "exad_section_pricing_table_note_margin": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "exad_pricing_table_promo_typography_typography": "globals\/typography?id=accent",
+                                                    "exad_pricing_table_promo_background_color": "globals\/colors?id=secondary",
+                                                    "exad_pricing_table_title_typography_typography": "globals\/typography?id=a10f8a0",
+                                                    "exad_pricing_table_subtitle_typography_typography": "globals\/typography?id=1eb2da8",
+                                                    "exad_pricing_table_subtitle_color": "globals\/colors?id=text",
+                                                    "exad_pricing_table_title_color": "globals\/colors?id=primary",
+                                                    "exad_pricing_table_price_box_separator_color": "globals\/colors?id=c0dc0f8",
+                                                    "exad_pricing_table_price_tag_typography_typography": "globals\/typography?id=679076f",
+                                                    "exad_pricing_table_pricing_color": "globals\/colors?id=primary",
+                                                    "exad_pricing_table_price_preiod_typography_typography": "globals\/typography?id=accent",
+                                                    "exad_pricing_table_pricing_period_color": "globals\/colors?id=text",
+                                                    "exad_pricing_table_list_item_typography_typography": "globals\/typography?id=text",
+                                                    "exad_pricing_table_list_item_icon_color": "globals\/colors?id=c0dc0f8",
+                                                    "exad_pricing_table_list_disable_item_icon_color": "globals\/colors?id=c0dc0f8",
+                                                    "exad_pricing_table_list_disable_item_color": "globals\/colors?id=c0dc0f8",
+                                                    "exad_pricing_table_btn_typography_typography": "globals\/typography?id=accent",
+                                                    "exad_pricing_table_btn_normal_border_color": "globals\/colors?id=primary",
+                                                    "exad_pricing_table_btn_normal_bg_color": "globals\/colors?id=primary",
+                                                    "exad_pricing_table_btn_hover_border_color": "globals\/colors?id=secondary",
+                                                    "exad_pricing_table_btn_hover_bg_color": "globals\/colors?id=secondary",
+                                                    "exad_pricing_table_btn_hover_text_color": "globals\/colors?id=primary",
+                                                    "exad_section_pricing_table_note_text_typography_typography": "globals\/typography?id=3958d75",
+                                                    "exad_section_pricing_table_note_text_color": "globals\/colors?id=text"
+                                                },
+                                                "exad_pricing_table_content_padding_tablet": {
+                                                    "unit": "px",
+                                                    "top": "35",
+                                                    "right": "35",
+                                                    "bottom": "35",
+                                                    "left": "35",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "exad-pricing-table",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1bb35811",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1320,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "15",
+                    "bottom": "50",
+                    "left": "15",
+                    "isLinked": false
+                },
+                "gap": "no"
+            },
+            "elements": [
+                {
+                    "id": "e349bd4",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "65f87194",
+                            "settings": {
+                                "layout": "full_width",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "35",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "246416df",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "30",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_inline_size_tablet": 100,
+                                        "padding_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "386d3a49",
+                                            "settings": {
+                                                "view": "inline",
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Skills I Do",
+                                                        "selected_icon": {
+                                                            "value": "icon icon-photo-camera1",
+                                                            "library": "ekiticons"
+                                                        },
+                                                        "_id": "db73467"
+                                                    }
+                                                ],
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "icon_typography_typography": "globals\/typography?id=3958d75",
+                                                    "text_color": "globals\/colors?id=c0dc0f8",
+                                                    "icon_color": "globals\/colors?id=primary"
+                                                },
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4fcbf4aa",
+                                            "settings": {
+                                                "ekit_heading_title": "{{Photography Skills}} I Do",
+                                                "ekit_heading_sub_title": "Time has changed",
+                                                "shadow_text_content": "bussiness",
+                                                "ekit_heading_show_seperator": "",
+                                                "ekit_heading_title_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "ekit_heading_title_typography_typography": "custom",
+                                                "ekit_heading_title_typography_font_family": "Poppins",
+                                                "ekit_heading_title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 45,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_title_typography_font_size_tablet": {
+                                                    "unit": "px",
+                                                    "size": 35,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_title_typography_font_weight": "700",
+                                                "ekit_heading_title_typography_text_transform": "uppercase",
+                                                "ekit_heading_title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.3,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_title_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 0.7,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_title_typography_word_spacing": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_focused_title_typography_typography": "custom",
+                                                "ekit_heading_focused_title_typography_font_family": "Poppins",
+                                                "ekit_heading_focused_title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 45,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_focused_title_typography_font_size_tablet": {
+                                                    "unit": "px",
+                                                    "size": 35,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_focused_title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_focused_title_typography_font_weight": "700",
+                                                "ekit_heading_focused_title_typography_text_transform": "uppercase",
+                                                "ekit_heading_focused_title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.3,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_focused_title_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 0.7,
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_focused_title_typography_word_spacing": {
+                                                    "unit": "em",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "ekit_heading_use_focused_title_bg": "yes",
+                                                "ekit_heading_focused_title_secondary_bg_background": "classic",
+                                                "ekit_heading_focused_title_secondary_bg_color": "#121212",
+                                                "ekit_heading_use_title_text_fill": "",
+                                                "__globals__": {
+                                                    "ekit_heading_title_typography_typography": "globals\/typography?id=c397194",
+                                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=c397194",
+                                                    "ekit_heading_focused_title_secondary_bg_color": "globals\/colors?id=4054cab",
+                                                    "ekit_heading_focused_title_color": "globals\/colors?id=primary",
+                                                    "ekit_heading_focused_title_color_hover": "globals\/colors?id=primary"
+                                                },
+                                                "ekit_heading_title_tag": "h3",
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": 200
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "4bc7773e",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "content_position": "bottom",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "30",
+                                            "isLinked": false
+                                        },
+                                        "_inline_size_tablet": 100,
+                                        "padding_tablet": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "ea0d48f",
+                                            "settings": [],
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "20d5176b",
+                            "settings": {
+                                "layout": "full_width",
+                                "gap": "no",
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "131c159e",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "content_position": "center",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "30",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_inline_size_tablet": 100,
+                                        "padding_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4ca4699e",
+                                            "settings": {
+                                                "width": {
+                                                    "unit": "px",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "width_tablet": {
+                                                    "unit": "px",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "width_mobile": {
+                                                    "unit": "px",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "align": "left",
+                                                "text": "Divider",
+                                                "weight": {
+                                                    "unit": "px",
+                                                    "size": 2,
+                                                    "sizes": []
+                                                },
+                                                "gap": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "color": "globals\/colors?id=c0dc0f8"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "divider",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "15efd7e2",
+                                            "settings": [],
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "331364a1",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Personal Photography",
+                                                        "selected_icon": {
+                                                            "value": "remixicon ri-check-double-fill",
+                                                            "library": "remix-icons"
+                                                        },
+                                                        "_id": "22ac03c"
+                                                    },
+                                                    {
+                                                        "text": "Nature Photography",
+                                                        "selected_icon": {
+                                                            "value": "remixicon ri-check-double-fill",
+                                                            "library": "remix-icons"
+                                                        },
+                                                        "_id": "5bd371d"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "_element_width": "initial",
+                                                "_element_custom_width": {
+                                                    "unit": "%",
+                                                    "size": 50,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=c0dc0f8",
+                                                    "icon_typography_typography": "globals\/typography?id=text",
+                                                    "text_color": "globals\/colors?id=text"
+                                                },
+                                                "_element_width_mobile": "inherit"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1f8bf51b",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Events Photography",
+                                                        "selected_icon": {
+                                                            "value": "remixicon ri-check-double-fill",
+                                                            "library": "remix-icons"
+                                                        },
+                                                        "_id": "22ac03c"
+                                                    },
+                                                    {
+                                                        "text": "And Much More",
+                                                        "selected_icon": {
+                                                            "value": "remixicon ri-check-double-fill",
+                                                            "library": "remix-icons"
+                                                        },
+                                                        "_id": "5bd371d"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "_element_width": "initial",
+                                                "_element_custom_width": {
+                                                    "unit": "%",
+                                                    "size": 50,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=c0dc0f8",
+                                                    "icon_typography_typography": "globals\/typography?id=text",
+                                                    "text_color": "globals\/colors?id=text"
+                                                },
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_element_width_mobile": "inherit"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5e78d5da",
+                                            "settings": {
+                                                "space": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "spacer",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "43cf4a28",
+                                            "settings": {
+                                                "ekit_progressbar_title": "Photography Skills",
+                                                "ekit_progressbar_percentage": 99,
+                                                "ekit_progressbar_background_background": "classic",
+                                                "ekit_progressbar_bar_height": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "ekit_progressbar_track_color_background": "classic",
+                                                "__globals__": {
+                                                    "ekit_progressbar_background_color": "globals\/colors?id=secondary",
+                                                    "ekit_progressbar_track_color_color": "globals\/colors?id=primary",
+                                                    "ekit_progressbar_title_typography_typography": "globals\/typography?id=4aceb21",
+                                                    "ekit_progressbar_title_color": "globals\/colors?id=accent",
+                                                    "ekit_progressbar_percent_typography_typography": "globals\/typography?id=4aceb21",
+                                                    "ekit_progressbar_percent_color": "globals\/colors?id=c0dc0f8"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-progressbar",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3665d464",
+                                            "settings": {
+                                                "ekit_progressbar_title": "Video Graphy Skills",
+                                                "ekit_progressbar_percentage": 88,
+                                                "ekit_progressbar_background_background": "classic",
+                                                "ekit_progressbar_bar_height": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "ekit_progressbar_track_color_background": "classic",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "ekit_progressbar_background_color": "globals\/colors?id=secondary",
+                                                    "ekit_progressbar_track_color_color": "globals\/colors?id=primary",
+                                                    "ekit_progressbar_title_typography_typography": "globals\/typography?id=4aceb21",
+                                                    "ekit_progressbar_title_color": "globals\/colors?id=accent",
+                                                    "ekit_progressbar_percent_typography_typography": "globals\/typography?id=4aceb21",
+                                                    "ekit_progressbar_percent_color": "globals\/colors?id=c0dc0f8"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-progressbar",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "e6dc87b",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "30",
+                                            "isLinked": false
+                                        },
+                                        "_inline_size_tablet": 100,
+                                        "padding_tablet": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6bcdfc20",
+                                            "settings": {
+                                                "structure": "20"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "6364a6ae",
+                                                    "settings": {
+                                                        "_column_size": 50,
+                                                        "_inline_size": 60,
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "15",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "padding_mobile": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "3c1cbfc9",
+                                                            "settings": {
+                                                                "youtube_url": "https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E",
+                                                                "vimeo_url": "https:\/\/vimeo.com\/235215203",
+                                                                "dailymotion_url": "https:\/\/www.dailymotion.com\/video\/x6tqhqb",
+                                                                "show_image_overlay": "yes",
+                                                                "image_overlay": {
+                                                                    "url": "https:\/\/gajean.com\/hanpot\/wp-content\/uploads\/sites\/27\/2023\/02\/young-photographer-in-wintertime-1.jpg",
+                                                                    "id": 777,
+                                                                    "alt": "",
+                                                                    "source": "library"
+                                                                },
+                                                                "image_overlay_size": "custom",
+                                                                "image_overlay_custom_dimension": {
+                                                                    "width": "700",
+                                                                    "height": "800"
+                                                                },
+                                                                "lightbox": "yes"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "video",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                },
+                                                {
+                                                    "id": "65e6c5ca",
+                                                    "settings": {
+                                                        "_column_size": 50,
+                                                        "_inline_size": 40,
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "15",
+                                                            "isLinked": false
+                                                        },
+                                                        "padding_mobile": {
+                                                            "unit": "px",
+                                                            "top": "30",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "32b55ac4",
+                                                            "settings": {
+                                                                "image": {
+                                                                    "url": "https:\/\/gajean.com\/hanpot\/wp-content\/uploads\/sites\/27\/2023\/02\/male-photographer-back-view-1.jpg",
+                                                                    "id": 770,
+                                                                    "alt": "",
+                                                                    "source": "library"
+                                                                },
+                                                                "image_size": "custom",
+                                                                "image_custom_dimension": {
+                                                                    "width": "700",
+                                                                    "height": "800"
+                                                                },
+                                                                "opacity": {
+                                                                    "unit": "px",
+                                                                    "size": 0.9,
+                                                                    "sizes": []
+                                                                },
+                                                                "css_filters_css_filter": "custom",
+                                                                "css_filters_saturate": {
+                                                                    "unit": "px",
+                                                                    "size": 20,
+                                                                    "sizes": []
+                                                                },
+                                                                "opacity_hover": {
+                                                                    "unit": "px",
+                                                                    "size": 1,
+                                                                    "sizes": []
+                                                                },
+                                                                "css_filters_hover_css_filter": "custom",
+                                                                "background_hover_transition": {
+                                                                    "unit": "px",
+                                                                    "size": 0.7,
+                                                                    "sizes": []
+                                                                },
+                                                                "_animation": "fadeInUp"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "image",
+                                                            "elType": "widget"
+                                                        },
+                                                        {
+                                                            "id": "332478e8",
+                                                            "settings": {
+                                                                "text": "Discover More",
+                                                                "align": "left",
+                                                                "selected_icon": {
+                                                                    "value": "teenyicon ti-arrow-right",
+                                                                    "library": "teeny-icons"
+                                                                },
+                                                                "icon_align": "right",
+                                                                "icon_indent": {
+                                                                    "unit": "px",
+                                                                    "size": 10,
+                                                                    "sizes": []
+                                                                },
+                                                                "hover_animation": "float",
+                                                                "_margin": {
+                                                                    "unit": "px",
+                                                                    "top": "10",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "-100",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_margin_mobile": {
+                                                                    "unit": "px",
+                                                                    "top": "0",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                },
+                                                                "_animation": "fadeInRight"
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "button",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": true,
+                                                    "elType": "column"
+                                                }
+                                            ],
+                                            "isInner": true,
+                                            "elType": "section"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "c81a7d2",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1320,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "15",
+                    "bottom": "50",
+                    "left": "15",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2a3e3b0a",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "https:\/\/gajean.com\/hanpot\/wp-content\/uploads\/sites\/27\/2023\/02\/male-photographer-back-view-1.jpg",
+                            "id": 770,
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_position": "center center",
+                        "background_size": "cover",
+                        "background_overlay_background": "gradient",
+                        "background_overlay_color_b_stop": {
+                            "unit": "%",
+                            "size": 50,
+                            "sizes": []
+                        },
+                        "background_overlay_opacity": {
+                            "unit": "px",
+                            "size": 1,
+                            "sizes": []
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "100",
+                            "right": "0",
+                            "bottom": "100",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "0",
+                            "bottom": "50",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "__globals__": {
+                            "background_overlay_color": "globals\/colors?id=2e791f7",
+                            "background_overlay_color_b": "globals\/colors?id=328789b"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "748775c1",
+                            "settings": {
+                                "content_width": {
+                                    "unit": "px",
+                                    "size": 720,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "6935b515",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3fa4e968",
+                                            "settings": {
+                                                "title": "Need Any Custom Package For Any Business Needed ?",
+                                                "align": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "d6609c9",
+                                            "settings": {
+                                                "text": "Lets Talk Now",
+                                                "selected_icon": {
+                                                    "value": "teenyicon ti-arrow-right",
+                                                    "library": "teeny-icons"
+                                                },
+                                                "icon_align": "right",
+                                                "icon_indent": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "hover_animation": "float",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "align": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "button",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

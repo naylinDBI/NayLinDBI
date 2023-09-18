@@ -1,0 +1,1101 @@
+{
+    "manifest_version": "1.0.17",
+    "title": "Dexnie - Personal Portfolio Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/elementor.lovabletype.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Dexnie Header",
+            "screenshot": "screenshots\/dexnie-header.png",
+            "source": "templates\/dexnie-header.json",
+            "preview_url": "https:\/\/elementor.lovabletype.com\/dexnie\/template-kit\/dexnie-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Dexnie Home",
+            "screenshot": "screenshots\/dexnie-home.png",
+            "source": "templates\/dexnie-home.json",
+            "preview_url": "https:\/\/elementor.lovabletype.com\/dexnie\/template-kit\/dexnie-home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Dexnie Services",
+            "screenshot": "screenshots\/dexnie-services.png",
+            "source": "templates\/dexnie-services.json",
+            "preview_url": "https:\/\/elementor.lovabletype.com\/dexnie\/template-kit\/dexnie-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Dexnie Service Detail",
+            "screenshot": "screenshots\/dexnie-service-detail.png",
+            "source": "templates\/dexnie-service-detail.json",
+            "preview_url": "https:\/\/elementor.lovabletype.com\/dexnie\/template-kit\/dexnie-service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Dexnie About",
+            "screenshot": "screenshots\/dexnie-about.png",
+            "source": "templates\/dexnie-about.json",
+            "preview_url": "https:\/\/elementor.lovabletype.com\/dexnie\/template-kit\/dexnie-about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Dexnie Portfolio",
+            "screenshot": "screenshots\/dexnie-portfolio.png",
+            "source": "templates\/dexnie-portfolio.json",
+            "preview_url": "https:\/\/elementor.lovabletype.com\/dexnie\/template-kit\/dexnie-portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Dexnie Project Detail",
+            "screenshot": "screenshots\/dexnie-project-detail.png",
+            "source": "templates\/dexnie-project-detail.json",
+            "preview_url": "https:\/\/elementor.lovabletype.com\/dexnie\/template-kit\/dexnie-project-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Dexnie Pricing",
+            "screenshot": "screenshots\/dexnie-pricing.png",
+            "source": "templates\/dexnie-pricing.json",
+            "preview_url": "https:\/\/elementor.lovabletype.com\/dexnie\/template-kit\/dexnie-pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Dexnie Metform Contact",
+            "screenshot": "screenshots\/dexnie-metform-contact.png",
+            "source": "templates\/dexnie-metform-contact.json",
+            "preview_url": "https:\/\/elementor.lovabletype.com\/dexnie\/template-kit\/dexnie-metform-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Dexnie Contact",
+            "screenshot": "screenshots\/dexnie-contact.png",
+            "source": "templates\/dexnie-contact.json",
+            "preview_url": "https:\/\/elementor.lovabletype.com\/dexnie\/template-kit\/dexnie-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Dexnie FAQs",
+            "screenshot": "screenshots\/dexnie-faqs.png",
+            "source": "templates\/dexnie-faqs.json",
+            "preview_url": "https:\/\/elementor.lovabletype.com\/dexnie\/template-kit\/dexnie-faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Dexnie 404",
+            "screenshot": "screenshots\/dexnie-404.png",
+            "source": "templates\/dexnie-404.json",
+            "preview_url": "https:\/\/elementor.lovabletype.com\/dexnie\/template-kit\/dexnie-404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Dexnie Footer",
+            "screenshot": "screenshots\/dexnie-footer.png",
+            "source": "templates\/dexnie-footer.json",
+            "preview_url": "https:\/\/elementor.lovabletype.com\/dexnie\/template-kit\/dexnie-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "MetForm",
+            "version": "1.4.0",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.15",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.4",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bubbles_bg.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/bubbles_bg.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                },
+                {
+                    "source": "templates\/dexnie-services.json",
+                    "name": "Dexnie Services"
+                },
+                {
+                    "source": "templates\/dexnie-service-detail.json",
+                    "name": "Dexnie Service Detail"
+                },
+                {
+                    "source": "templates\/dexnie-about.json",
+                    "name": "Dexnie About"
+                },
+                {
+                    "source": "templates\/dexnie-portfolio.json",
+                    "name": "Dexnie Portfolio"
+                },
+                {
+                    "source": "templates\/dexnie-project-detail.json",
+                    "name": "Dexnie Project Detail"
+                },
+                {
+                    "source": "templates\/dexnie-pricing.json",
+                    "name": "Dexnie Pricing"
+                },
+                {
+                    "source": "templates\/dexnie-contact.json",
+                    "name": "Dexnie Contact"
+                },
+                {
+                    "source": "templates\/dexnie-faqs.json",
+                    "name": "Dexnie FAQs"
+                }
+            ],
+            "filesize": 8564,
+            "dimensions": [
+                500,
+                680
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementor.lovabletype.com\/dexnie\/template-kit\/dexnie-home\/bubbles_bg\/"
+        },
+        {
+            "filename": "cheerful-lovely-young-girl-wearing-pajamas-sitting-C2B4MUW.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/cheerful-lovely-young-girl-wearing-pajamas-sitting-C2B4MUW-600x734.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                },
+                {
+                    "source": "templates\/dexnie-about.json",
+                    "name": "Dexnie About"
+                }
+            ],
+            "filesize": 283092,
+            "dimensions": [
+                800,
+                979
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-C2B4MUW"
+        },
+        {
+            "filename": "icons_fresh_idea.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/icons_fresh_idea.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                },
+                {
+                    "source": "templates\/dexnie-about.json",
+                    "name": "Dexnie About"
+                }
+            ],
+            "filesize": 7071,
+            "dimensions": [
+                186,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FQGWP8T"
+        },
+        {
+            "filename": "icons_premium.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/icons_premium.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                },
+                {
+                    "source": "templates\/dexnie-about.json",
+                    "name": "Dexnie About"
+                }
+            ],
+            "filesize": 5852,
+            "dimensions": [
+                186,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FQGWP8T"
+        },
+        {
+            "filename": "solveig-social-media-pack-vol-1-3G9BR8W.jpg",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/solveig-social-media-pack-vol-1-3G9BR8W-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                },
+                {
+                    "source": "templates\/dexnie-portfolio.json",
+                    "name": "Dexnie Portfolio"
+                }
+            ],
+            "filesize": 50497,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-3G9BR8W"
+        },
+        {
+            "filename": "romantic-feminine-premade-logos-GJ2DFT.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/romantic-feminine-premade-logos-GJ2DFT-600x400.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                },
+                {
+                    "source": "templates\/dexnie-portfolio.json",
+                    "name": "Dexnie Portfolio"
+                }
+            ],
+            "filesize": 221329,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XXX"
+        },
+        {
+            "filename": "mirrel-instagram-puzzle-templates-5TS7Y2Y.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/mirrel-instagram-puzzle-templates-5TS7Y2Y-600x400.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                },
+                {
+                    "source": "templates\/dexnie-portfolio.json",
+                    "name": "Dexnie Portfolio"
+                }
+            ],
+            "filesize": 132248,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5TS7Y2Y"
+        },
+        {
+            "filename": "utosia-2.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/utosia-2-600x154.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                }
+            ],
+            "filesize": 16686,
+            "dimensions": [
+                2340,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "velocity-9.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/velocity-9-600x154.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                }
+            ],
+            "filesize": 17469,
+            "dimensions": [
+                2331,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "amara.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/amara-600x158.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                }
+            ],
+            "filesize": 17108,
+            "dimensions": [
+                2284,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "asgardia.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/asgardia-600x141.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                }
+            ],
+            "filesize": 12650,
+            "dimensions": [
+                2558,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "code-lab.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/code-lab-600x158.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                }
+            ],
+            "filesize": 17688,
+            "dimensions": [
+                2280,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "goldline.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/goldline-600x140.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                }
+            ],
+            "filesize": 17936,
+            "dimensions": [
+                2580,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "hex-lab.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/hex-lab-600x171.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                }
+            ],
+            "filesize": 11960,
+            "dimensions": [
+                2100,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "kanba.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/kanba-600x167.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                }
+            ],
+            "filesize": 16811,
+            "dimensions": [
+                2160,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "muzica.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/muzica-600x150.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                }
+            ],
+            "filesize": 13726,
+            "dimensions": [
+                2400,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "nirastate.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/nirastate-600x121.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                }
+            ],
+            "filesize": 17955,
+            "dimensions": [
+                2970,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "solaytic.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/solaytic-600x193.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-home.json",
+                    "name": "Dexnie Home"
+                }
+            ],
+            "filesize": 25316,
+            "dimensions": [
+                1870,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "icons_illustration.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/icons_illustration.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-services.json",
+                    "name": "Dexnie Services"
+                }
+            ],
+            "filesize": 4394,
+            "dimensions": [
+                186,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FQGWP8T"
+        },
+        {
+            "filename": "icons_font.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/icons_font.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-services.json",
+                    "name": "Dexnie Services"
+                }
+            ],
+            "filesize": 3635,
+            "dimensions": [
+                186,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FQGWP8T"
+        },
+        {
+            "filename": "icons_web.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/icons_web.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-services.json",
+                    "name": "Dexnie Services"
+                }
+            ],
+            "filesize": 3357,
+            "dimensions": [
+                186,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FQGWP8T"
+        },
+        {
+            "filename": "icons_photography.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/icons_photography.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-services.json",
+                    "name": "Dexnie Services"
+                }
+            ],
+            "filesize": 3855,
+            "dimensions": [
+                186,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FQGWP8T"
+        },
+        {
+            "filename": "icons_vector.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/icons_vector.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-services.json",
+                    "name": "Dexnie Services"
+                }
+            ],
+            "filesize": 6105,
+            "dimensions": [
+                186,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FQGWP8T"
+        },
+        {
+            "filename": "icons_branding.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/icons_branding.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-services.json",
+                    "name": "Dexnie Services"
+                }
+            ],
+            "filesize": 3752,
+            "dimensions": [
+                186,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FQGWP8T"
+        },
+        {
+            "filename": "icons_uiux.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/icons_uiux.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-services.json",
+                    "name": "Dexnie Services"
+                }
+            ],
+            "filesize": 3802,
+            "dimensions": [
+                186,
+                186
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FQGWP8T"
+        },
+        {
+            "filename": "beauty-feminine-logo-2D9XVK7.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/beauty-feminine-logo-2D9XVK7-600x400.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-services.json",
+                    "name": "Dexnie Services"
+                },
+                {
+                    "source": "templates\/dexnie-service-detail.json",
+                    "name": "Dexnie Service Detail"
+                },
+                {
+                    "source": "templates\/dexnie-portfolio.json",
+                    "name": "Dexnie Portfolio"
+                },
+                {
+                    "source": "templates\/dexnie-project-detail.json",
+                    "name": "Dexnie Project Detail"
+                }
+            ],
+            "filesize": 239770,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2D9XVK7"
+        },
+        {
+            "filename": "freelance-8JVGH7.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/freelance-8JVGH7-600x400.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-services.json",
+                    "name": "Dexnie Services"
+                },
+                {
+                    "source": "templates\/dexnie-service-detail.json",
+                    "name": "Dexnie Service Detail"
+                },
+                {
+                    "source": "templates\/dexnie-portfolio.json",
+                    "name": "Dexnie Portfolio"
+                },
+                {
+                    "source": "templates\/dexnie-project-detail.json",
+                    "name": "Dexnie Project Detail"
+                }
+            ],
+            "filesize": 69952,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XXX"
+        },
+        {
+            "filename": "olive-identity-stationery-template-62YTKW.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/olive-identity-stationery-template-62YTKW-600x400.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-services.json",
+                    "name": "Dexnie Services"
+                },
+                {
+                    "source": "templates\/dexnie-service-detail.json",
+                    "name": "Dexnie Service Detail"
+                },
+                {
+                    "source": "templates\/dexnie-portfolio.json",
+                    "name": "Dexnie Portfolio"
+                },
+                {
+                    "source": "templates\/dexnie-project-detail.json",
+                    "name": "Dexnie Project Detail"
+                }
+            ],
+            "filesize": 97741,
+            "dimensions": [
+                1019,
+                679
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XXX"
+        },
+        {
+            "filename": "oars-organic-store-smoothie-template-AWDRSB.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/oars-organic-store-smoothie-template-AWDRSB-600x400.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-services.json",
+                    "name": "Dexnie Services"
+                },
+                {
+                    "source": "templates\/dexnie-service-detail.json",
+                    "name": "Dexnie Service Detail"
+                },
+                {
+                    "source": "templates\/dexnie-portfolio.json",
+                    "name": "Dexnie Portfolio"
+                },
+                {
+                    "source": "templates\/dexnie-project-detail.json",
+                    "name": "Dexnie Project Detail"
+                }
+            ],
+            "filesize": 283627,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XXX"
+        },
+        {
+            "filename": "elegant-logo-templates-NW8274G.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/elegant-logo-templates-NW8274G-600x400.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-services.json",
+                    "name": "Dexnie Services"
+                },
+                {
+                    "source": "templates\/dexnie-service-detail.json",
+                    "name": "Dexnie Service Detail"
+                },
+                {
+                    "source": "templates\/dexnie-portfolio.json",
+                    "name": "Dexnie Portfolio"
+                },
+                {
+                    "source": "templates\/dexnie-project-detail.json",
+                    "name": "Dexnie Project Detail"
+                }
+            ],
+            "filesize": 229433,
+            "dimensions": [
+                1019,
+                679
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NW8274G"
+        },
+        {
+            "filename": "online-clasess-29AJDH.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/online-clasess-29AJDH-600x400.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-services.json",
+                    "name": "Dexnie Services"
+                },
+                {
+                    "source": "templates\/dexnie-service-detail.json",
+                    "name": "Dexnie Service Detail"
+                },
+                {
+                    "source": "templates\/dexnie-portfolio.json",
+                    "name": "Dexnie Portfolio"
+                },
+                {
+                    "source": "templates\/dexnie-project-detail.json",
+                    "name": "Dexnie Project Detail"
+                }
+            ],
+            "filesize": 94729,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XXX"
+        },
+        {
+            "filename": "pink-brand-identity-R2L45TA.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/pink-brand-identity-R2L45TA-600x400.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-services.json",
+                    "name": "Dexnie Services"
+                },
+                {
+                    "source": "templates\/dexnie-service-detail.json",
+                    "name": "Dexnie Service Detail"
+                },
+                {
+                    "source": "templates\/dexnie-portfolio.json",
+                    "name": "Dexnie Portfolio"
+                },
+                {
+                    "source": "templates\/dexnie-project-detail.json",
+                    "name": "Dexnie Project Detail"
+                }
+            ],
+            "filesize": 135051,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-R2L45TA"
+        },
+        {
+            "filename": "srtp-social-media-banner-homepage-PN73D8.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/srtp-social-media-banner-homepage-PN73D8-600x400.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-services.json",
+                    "name": "Dexnie Services"
+                },
+                {
+                    "source": "templates\/dexnie-service-detail.json",
+                    "name": "Dexnie Service Detail"
+                },
+                {
+                    "source": "templates\/dexnie-portfolio.json",
+                    "name": "Dexnie Portfolio"
+                },
+                {
+                    "source": "templates\/dexnie-project-detail.json",
+                    "name": "Dexnie Project Detail"
+                }
+            ],
+            "filesize": 107305,
+            "dimensions": [
+                1370,
+                913
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XXX"
+        },
+        {
+            "filename": "icon_user.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/icon_user.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-project-detail.json",
+                    "name": "Dexnie Project Detail"
+                }
+            ],
+            "filesize": 2263,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4W9Y6MS"
+        },
+        {
+            "filename": "icon_keyboard.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/icon_keyboard.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-project-detail.json",
+                    "name": "Dexnie Project Detail"
+                }
+            ],
+            "filesize": 1897,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4W9Y6MS"
+        },
+        {
+            "filename": "icon_receiver.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/icon_receiver.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-project-detail.json",
+                    "name": "Dexnie Project Detail"
+                }
+            ],
+            "filesize": 2127,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4W9Y6MS"
+        },
+        {
+            "filename": "icon_global.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/icon_global.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-project-detail.json",
+                    "name": "Dexnie Project Detail"
+                }
+            ],
+            "filesize": 2709,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4W9Y6MS"
+        },
+        {
+            "filename": "retro-winter-music-flyer-set-8GLLDCY-1024x682-1.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/retro-winter-music-flyer-set-8GLLDCY-1024x682-1-600x400.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-project-detail.json",
+                    "name": "Dexnie Project Detail"
+                }
+            ],
+            "filesize": 266817,
+            "dimensions": [
+                1024,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XXX"
+        },
+        {
+            "filename": "multi-ethnic-business-team-standing-in-an-office-b-GBCPS65-3.jpg",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/multi-ethnic-business-team-standing-in-an-office-b-GBCPS65-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-project-detail.json",
+                    "name": "Dexnie Project Detail"
+                }
+            ],
+            "filesize": 2317,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GBCPS65"
+        },
+        {
+            "filename": "dexnie_logo_alt.png",
+            "thumbnail_url": "https:\/\/elementor.lovabletype.com\/dexnie\/wp-content\/uploads\/sites\/13\/2020\/12\/dexnie_logo_alt.png",
+            "templates": [
+                {
+                    "source": "templates\/dexnie-footer.json",
+                    "name": "Dexnie Footer"
+                }
+            ],
+            "filesize": 6583,
+            "dimensions": [
+                350,
+                211
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-H6KCCNY"
+        }
+    ]
+}
