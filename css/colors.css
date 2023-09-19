@@ -93,7 +93,7 @@
 .shane_tm_all_wrap[data-color="brown"] .cursor-inner.cursor-hover{background-color: #ff9800;}
 .shane_tm_all_wrap[data-color="brown"] .cursor-outer{border-color: #ff9800;}
 .shane_tm_all_wrap[data-color="brown"] .cursor-inner{background-color: #ff9800;}
-.shane_tm_all_wrap[data-color="brown"] .overlay_effect:before{background-color: #ff9800;}
+.shane_tm_all_wrap[data-color="brown"] .overlay_effect:before{background-color: #f4b10b;}
 
 
 .shane_tm_all_wrap[data-color="pink"] .shane_tm_topbar .menu ul li.current a{color: #ff5e94;}
